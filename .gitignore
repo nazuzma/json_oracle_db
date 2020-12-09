@@ -1,0 +1,10 @@
+/ingestion-api/__pycache__
+/ingestion-api/venv
+/ingestion-api/logs
+/ingestion-api/.idea
+/.idea
+/ingestion-api/uploads/dummy.txt
+/_samples/dummy.txt
+/_samples/JSON_Finalized.json
+/ingestion-api/uploads/*.json
+/binding-service/logs
